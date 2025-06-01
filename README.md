@@ -1,0 +1,46 @@
+# 👋 Hi there, I'm Amit (@amit7080)
+
+Welcome to my GitHub profile! I'm a passionate and detail-oriented **.NET Developer** with a strong interest in crafting scalable, maintainable, and high-performance applications using the Microsoft technology stack.
+
+---
+
+## 👀 What I'm Interested In
+
+- 🚀 Building full-stack web applications using **ASP.NET Core**
+- 🧠 Clean Architecture, Domain-Driven Design (DDD), and SOLID principles
+- 📦 Building and consuming REST APIs
+
+---
+
+## 🌱 Currently Learning
+
+- ⚙️ Deep diving into **.NET Latest features**
+- 🧰 Exploring **Microservices architecture** with **Docker**
+- 📊 Improving frontend skills with **Angular**, **TypeScript**, and **TailwindCSS**
+
+---
+
+## 💞️ Looking to Collaborate On
+
+- 🤝 Open-source .NET projects — especially those related to web apps, libraries, or tools
+- 📚 Projects focused on software architecture, testing, or clean coding practices
+- 💬 .NET meetups, workshops, or community-driven learning initiatives
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: akh.pbh@gmail.com 
+- 💼 LinkedIn: (https://www.linkedin.com/in/amit7080/)  
+
+---
+
+## 😄 Pronouns
+
+He/Him
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
+Thanks for stopping by! Feel free to check out my repositories or reach out for collaboration.
