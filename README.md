@@ -1,46 +1,72 @@
-# 👋 Hi there, I'm Amit (@amit7080)
+# 👋 Hi, I'm Amit Kumar Dhuriya  
 
-Welcome to my GitHub profile! I'm a passionate and detail-oriented **.NET Developer** with a strong interest in crafting scalable, maintainable, and high-performance applications using the Microsoft technology stack.
+**.NET Developer | Web Application Developer | API & Database Enthusiast**
 
----
-
-## 👀 What I'm Interested In
-
-- 🚀 Building full-stack web applications using **ASP.NET Core**
-- 🧠 Clean Architecture, Domain-Driven Design (DDD), and SOLID principles
-- 📦 Building and consuming REST APIs
+I build scalable, efficient, and clean web applications using the **Microsoft .NET ecosystem**.  
+I enjoy writing clean code, architecting backend systems, and continuously improving my craft.
 
 ---
 
-## 🌱 Currently Learning
+## 🔗 Portfolio & Profiles
 
-- ⚙️ Deep diving into **.NET Latest features**
-- 🧰 Exploring **Microservices architecture** with **Docker**
-- 📊 Improving frontend skills with **Angular**, **TypeScript**, and **TailwindCSS**
+- 🌐 **Portfolio Website:** https://amitkumardhuriya.runasp.net  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/amit7080/  
+- 📧 **Email:** akh.pbh@gmail.com  
+
+---
+
+## 👀 Interests
+
+- Building enterprise-grade **ASP.NET Core applications**
+- Designing maintainable solutions using **Clean Architecture & SOLID**
+- Working with **REST APIs** and **Database Optimization**
+- Exploring **Microservices**, **CQRS**, and **Event-Driven** systems
+
+---
+
+## 🌱 Currently Growing In
+
+| Area | What I'm Exploring |
+|------|-------------------|
+| Backend | Latest .NET Enhancements & Performance Improvements |
+| Architecture | Microservices • Docker • Distributed Systems |
+| Frontend | Angular • TypeScript • TailwindCSS |
+
+---
+
+## 🧰 Technical Skills
+
+**Languages & Frameworks:**  
+`.NET Core`, `C#`, `Entity Framework Core`, `ASP.NET MVC`, `Web API`
+
+**Frontend:**  
+`HTML`, `CSS`, `JavaScript`, `Bootstrap`, `jQuery`
+
+**Databases:**  
+`MS SQL Server`, `T-SQL`
+
+**Tools & Platforms:**  
+`Visual Studio`, `Git`, `GitHub`, `Postman`, `IIS`, `Azure DevOps (Q)`
 
 ---
 
 ## 💞️ Looking to Collaborate On
 
-- 🤝 Open-source .NET projects — especially those related to web apps, libraries, or tools
-- 📚 Projects focused on software architecture, testing, or clean coding practices
-- 💬 .NET meetups, workshops, or community-driven learning initiatives
-
----
-
-## 📫 How to Reach Me
-
-- 📧 Email: akh.pbh@gmail.com 
-- 💼 LinkedIn: (https://www.linkedin.com/in/amit7080/)  
+- Open-source **.NET Libraries or Tools**
+- Enterprise-grade ASP.NET Core application development
+- Educational and community-driven developer projects
 
 ---
 
 ## 😄 Pronouns
-
 He/Him
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+### 💡 Quote I Live By
+> _"Code is like humor. When you have to explain it, it's bad."_ — Cory House
 
-Thanks for stopping by! Feel free to check out my repositories or reach out for collaboration.
+---
+
+Thanks for visiting my profile!  
+Feel free to ⭐ repositories you find useful or reach out for collaboration.
