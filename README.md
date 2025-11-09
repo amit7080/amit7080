@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Amit Kumar Dhuriya</h1>
-<p align="center"><strong>.NET Developer | Web Application Engineer | API & Database Specialist</strong></p>
+<p align="center"><strong>.NET Developer | 2.5+ Years Experience | .NET Core, MVC, Web API, EF Core | API & Payment Gateway Integration | CI/CD & Azure DevOps</strong></p>
 
 <p align="center">
   <a href="https://amitkumardhuriya.runasp.net"><b>Portfolio</b></a> •
@@ -37,7 +37,6 @@ Clean Architecture • Layered Architecture • Repository Pattern • SOLID Pri
 | Area | Focus |
 |------|-------|
 | Backend | .NET Latest Features & Performance Optimization |
-| Architecture | Microservices, Docker, API Design Patterns |
 
 ---
 
