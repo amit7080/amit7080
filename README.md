@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Amit Kumar Dhuriya</h1>
-<p align="center"><strong>.NET Developer | 2.5+ Years Experience | .NET Core, MVC, Web API, EF Core | API & Payment Gateway Integration | CI/CD & Azure DevOps</strong></p>
+<p align="center"><strong>.NET Developer | 2.5+ Years Experience | .NET Core, MVC, Web API, EF Core | API & Payment Gateway Integration | CI/CD Automation</strong></p>
 
 <p align="center">
   <a href="https://amitkumardhuriya.runasp.net"><b>Portfolio</b></a> •
@@ -12,23 +12,35 @@
 
 ### About Me
 
-I am a detail-oriented **.NET Developer** focused on building scalable, maintainable, and efficient applications using the **Microsoft .NET ecosystem**. I care deeply about clean code, readable architecture, and solving real-world business problems with practical software solutions.
+I am a detail-oriented .NET Developer with 2.5+ years of experience in designing, developing, and deploying scalable applications using .NET Core, MVC, Web API, C#, and SQL Server. Proficient in **third-party API integrations** (Expedia, Hotel Bed, GAdventures, TTC, Globus, Intrepid, Exodus, SendGrid) and **Payment Gateway Integrations** (Elavon, Moneris). Skilled in Entity Framework Core, Hangfire, Razor Pages, and CI/CD pipelines using GitHub Actions and Azure DevOps, with deployments on IIS and MonsterASP. Focused on performance, maintainability, clean architecture, and delivering impactful enterprise solutions.
 
 ---
 
 ### Skills & Technologies
 
-#### Backend & Frameworks
-`C#` • `.NET Core` • `ASP.NET MVC` • `Web API` • `Entity Framework Core` • `LINQ`
+#### Programming & Backend
+`C#` • `.NET Core` • `ASP.NET MVC` • `ASP.NET Web API` • `Razor Pages` • `Entity Framework Core` • `LINQ`
 
 #### Frontend
-`HTML5` • `CSS3` • `JavaScript` • `Bootstrap` • `jQuery`
+`JavaScript` • `jQuery` • `Bootstrap` • `HTML5` • `CSS3`
 
-#### Databases & Tools
-`MS SQL Server` • `T-SQL` • `SSMS` • `Postman` • `Git` • `GitHub` • `IIS`
+#### Databases & Data
+`MS SQL Server` • `T-SQL` • `Stored Procedures` • `SSMS` • `Query Performance Optimization`
 
-#### Architecture Practices
-Clean Architecture • Layered Architecture • Repository Pattern • SOLID Principles
+#### API & System Integrations
+Expedia • Hotel Bed • GAdventures • TTC • Globus • Intrepid • Exodus • SendGrid  
+Payment Gateways: **Elavon**, **Moneris**
+
+#### Architecture & Patterns
+Clean Architecture • Layered Architecture • Repository Pattern • SOLID Principles  
+JWT Auth • Token-Based Security • REST API Standards
+
+#### CI/CD & Deployment
+Git • GitHub • GitHub Actions • Azure DevOps • IIS • MonsterASP / SmarterASP  
+Hangfire (Background/Scheduled Jobs)
+
+#### Tools & Platforms
+Visual Studio • SSMS • Postman • SonarLint • Swagger
 
 ---
 
@@ -36,7 +48,7 @@ Clean Architecture • Layered Architecture • Repository Pattern • SOLID Pri
 
 | Area | Focus |
 |------|-------|
-| Backend | .NET Latest Features & Performance Optimization |
+| Backend | .NET Latest Features, Memory + Performance Optimization |
 
 ---
 
@@ -44,18 +56,18 @@ Clean Architecture • Layered Architecture • Repository Pattern • SOLID Pri
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Odenza DCDS** | Digital certificate distribution platform | *(Private/Internal)* |
-| **Odenza Vacations** | Travel & deal management web application | *(Private/Internal)* |
-| **Portfolio Website** | Personal web profile built with ASP.NET Core | https://amitkumardhuriya.runasp.net |
+| **Odenza DCDS** | Digital certificate distribution platform used in travel campaigns | *(Private/Internal)* |
+| **Odenza Vacations** | Travel deal and package management platform | *(Private/Internal)* |
+| **Portfolio Website** | Personal developer portfolio built with ASP.NET Core | https://amitkumardhuriya.runasp.net |
 
 ---
 
 ### Professional Interests
 
-- Designing and building enterprise-grade **.NET applications**
-- Working with **REST APIs**, data flows, integrations, and deployments
-- Strengthening architectural thinking and maintainability in codebases
-- Contributing to **community knowledge**, workshops & collaborative projects
+- Building robust enterprise-grade .NET applications
+- Engineering efficient API integration pipelines and data workflows
+- Writing maintainable, testable, and scalable code
+- Continuous learning and contributions to developer communities
 
 ---
 
@@ -64,8 +76,8 @@ Clean Architecture • Layered Architecture • Repository Pattern • SOLID Pri
 - **Email:** `akh.pbh@gmail.com`
 - **LinkedIn:** https://www.linkedin.com/in/amit7080
 - **Portfolio:** https://amitkumardhuriya.runasp.net
+- **Freelance:** Available
 
 ---
 
 > *"Maintainability is a feature. If the code is hard to understand, everything is harder to build on top of it."*
-
