@@ -44,14 +44,6 @@ Visual Studio • SSMS • Postman • SonarLint • Swagger
 
 ---
 
-### Currently Improving
-
-| Area | Focus |
-|------|-------|
-| Backend | .NET Latest Features, Memory + Performance Optimization |
-
----
-
 ### Featured Projects
 
 | Project | Description | Link |
