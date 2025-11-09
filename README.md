@@ -56,8 +56,10 @@ Visual Studio • SSMS • Postman • SonarLint • Swagger
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Odenza DCDS** | Digital certificate distribution platform used in travel campaigns | *(Private/Internal)* |
-| **Odenza Vacations** | Travel deal and package management platform | *(Private/Internal)* |
+| **Odenza Vacations** | Odenza Vacations is a comprehensive travel management platform designed to streamline vacation bookings, hotel inventory management, and offer promotions to clients. The system integrates with multiple APIs to fetch real-time hotel and flight availability and provides users with flexible options for booking, pricing, and promotions. | *(Private/Internal)* |
+| **Odenza DCDS 2.0** | Odenza DCDS is a web-based Digital Certificate Distribution System that automates the creation, management, and delivery of certificates for clients. The platform streamlines workflows for issuing, tracking, and distributing certificates digitally, ensuring accuracy, security, and timely delivery. | *(Private/Internal)* |
+| **Odenza DCDS** | Odenza DCDS is a web-based Digital Certificate Distribution System that automates the creation, management, and delivery of certificates for clients. The platform streamlines workflows for issuing, tracking, and distributing certificates digitally, ensuring accuracy, security, and timely delivery. | *(Private/Internal)* |
+| **Odenza Windows Services** | Background services for automated data sync, scheduled tasks, email dispatching, and third-party API integration workflows | *(Private/Internal)* |
 | **Portfolio Website** | Personal developer portfolio built with ASP.NET Core | https://amitkumardhuriya.runasp.net |
 
 ---
