@@ -3,7 +3,7 @@
 <p align="center"><strong>.NET Developer | 2.5+ Years Experience | .NET Core, MVC, Web API, EF Core | API & Payment Gateway Integration | CI/CD Automation</strong></p>
 
 <p align="center">
-  <a href="https://amitkumardhuriya.runasp.net"><b>Portfolio</b></a> •
+  <a href="https://amitkumardhuriya.runasp.net" _target="blank"><b>Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/amit7080/">LinkedIn</a> •
   <a href="mailto:akh.pbh@gmail.com">Email</a>
 </p>
